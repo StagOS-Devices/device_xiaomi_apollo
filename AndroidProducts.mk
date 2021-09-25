@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_apollo.mk
+    $(LOCAL_DIR)/stag_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_apollo-user \
-    dot_apollo-userdebug \
-    dot_apollo-eng
+    stag_apollo-user \
+    stag_apollo-userdebug \
+    stag_apollo-eng
